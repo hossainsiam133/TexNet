@@ -60,7 +60,6 @@ The repository currently serves as a project overview and development tracker. S
 ---
 
 ## Authors
+**Md. Siam Hossain**
 
 **Md. Talha Mahmud**
-
-**Md. Siam Hossain**
