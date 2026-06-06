@@ -25,7 +25,7 @@ TEXNET is an ongoing deep learning research project focused on the automated cla
 ## Proposed Architecture
 
 <p align="center">
-  <img src="images/model_architecture.jpeg" width="900">
+  <img src="images/model_architecture.jpg" width="900">
 </p>
 
 ---
